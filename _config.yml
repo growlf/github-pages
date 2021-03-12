@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Learning and Using Github Pages
 description: A personal journey into the tools and tricks of Github Pages
+show_downloads: true
+google_analytics: G-CHP97H02K7
