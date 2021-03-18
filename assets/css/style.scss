@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 #logo {
     position: absolute;
     height: 36px;
@@ -10,5 +12,5 @@
     display: block;
     background: url(../images/netyeti_logo.svg);
 }
-@import "{{ site.theme }}";
 
+// Test
