@@ -3,14 +3,15 @@
 
 @import "{{ site.theme }}";
 
-#logo {
-    position: absolute;
-    height: 36px;
-    width: 36px;
-    right: 7px;
-    top: 7px;
-    display: block;
-    background: url(../images/netyeti_logo.svg);
+header {
+    #banner {
+        #logo {
+        position: absolute;
+        height: 36px;
+        width: 36px;
+        right: 7px;
+        top: 7px;
+        display: block;
+        background: url(../images/netyeti_logo.svg);
+    }
 }
-
-// Test
