@@ -1,9 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-#banner #logo {
+#logo {
     position: absolute;
     height: 36px;
     width: 36px;
@@ -12,3 +10,5 @@
     display: block;
     background: url(../images/netyeti_logo.svg);
 }
+@import "{{ site.theme }}";
+
