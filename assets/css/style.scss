@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-#banner #logo background {
-    url:(../images/logoBIGGERFEETWhiteBG.png)
+#banner #logo {
+    background-image: url(../images/logoBIGGERFEETWhiteBG.png);
 }
